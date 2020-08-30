@@ -1,2 +1,2 @@
-# RPubs-Simulating-a-Pandemic
-Replication files for "Using R to Simulate a Pandemic" 
+# RPubs: Using R to Simulate a Pandemic
+(https://rpubs.com/mstefan-rpubs/pandemic)
